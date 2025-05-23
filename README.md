@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Java, Database and the college subjects.<br>🎲 Fun fact: Diverse musical taste</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Java, database and the college subjects.</p>
 
 ###
 
@@ -34,3 +34,9 @@
 </div>
 
 ###
+
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&langs_count=16&theme=white"/>
+</div>
+
