@@ -1,42 +1,47 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi, I'm Fernando Bellegarde 👋</h1>
 
-###
+<p align="center">
+🎓 Software Engineering student at <strong>FIAP</strong> <br>
+💻 Passionate <strong>Back-End Developer</strong> <br>
+📍 Based in São Paulo, Brazil <br>
+🧠 Always learning something new
+</p>
 
-<p align="left">My name is Fernando Bellegarde and I am a Back-End developer. I'm based in São Paulo, Brazil. I study at FIAP and I am studying software engineering.</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- ✨ Creating bugs since 2021  
+- 📚 Currently learning **Java**, **TypeScript**, and college-related topics  
+- 💼 Looking for opportunities as a **Developer**  
+- 🧹 Focused on writing clean and maintainable code  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Java, database and the college subjects.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&langs_count=8&theme=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
+  <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" height="40" alt="Eclipse" />
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=default"/>
+</div>
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandobellegarde)  
 
