@@ -65,6 +65,3 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150"/>
-</div>
