@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🐞 Creating (and solving) bugs since **2021**
-- 🧼 Passionate about clean, maintainable and scalable code
-- 📚 Currently learning: **Java**, **TypeScript**, **DataBase's** and Software Engineering best practices
-- 💼 Actively looking for opportunities as a **Developer**
+- 🐞 Creating (and fixing) bugs since **2021**
+- 🧼 Passionate about writing clean, maintainable, and scalable code
+- 📚 Currently learning **Java**, **TypeScript**, **Databases**, and software engineering best practices
+- 💼 Actively seeking opportunities as a **Back-End Developer**
 
 ---
 
@@ -29,19 +29,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
   <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" height="40" alt="Eclipse"/>
-
 </p>
 
 ---
 
 ## 🎯 Goals for 2025
 
-- 📜 Obter certificações em Java (OCA/OCP)
-- 🗃️ Aprimorar conhecimento em **modelagem de banco de dados relacional**
-- 🛡️ Aprender boas práticas de segurança e performance com **MySQL e PostgreSQL**
-- 🧪 Criar testes automatizados com **TypeScript + Jest**
-- 🏗️ Trabalhar com frameworks modernos como **NestJS** ou **Spring Boot**
-- 👨‍💼 Conseguir minha primeira vaga como Desenvolvedor Back-End
+- 📜 Earn Java certifications
+- 🗃️ Improve skills in **relational database modeling**
+- 🛡️ Learn best practices in **database security and performance** using MySQL and PostgreSQL
+- 🧪 Write automated tests with **TypeScript + Jest**
+- 🏗️ Build real-world applications using frameworks like **NestJS** and **Spring Boot**
+- 👨‍💼 Land my first job as a **Back-End Developer**
 
 ---
 
@@ -64,4 +63,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
