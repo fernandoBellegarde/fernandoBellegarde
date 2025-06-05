@@ -63,3 +63,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+![Snake animation](https://github.com/fernandoBellegarde/fernandoBellegarde/raw/output/github-contribution-grid-snake.svg)
+
