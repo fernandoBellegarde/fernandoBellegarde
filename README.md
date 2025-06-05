@@ -13,7 +13,7 @@
 
 - 🐞 Creating (and fixing) bugs since **2021**
 - 🧼 Passionate about writing clean, maintainable, and scalable code
-- 📚 Currently learning **Java**, **TypeScript**, **Databases**, and software engineering best practices
+- 📚 Currently learning: **Java**, **TypeScript**, **Databases**, and software engineering best practices
 - 💼 Actively seeking opportunities as a **Back-End Developer**
 
 ---
@@ -35,11 +35,11 @@
 
 ## 🎯 Goals for 2025
 
-- 📜 Earn Java certifications
+- 📜 Earn **Java certifications** 
 - 🗃️ Improve skills in **relational database modeling**
 - 🛡️ Learn best practices in **database security and performance** using MySQL and PostgreSQL
-- 🧪 Write automated tests with **TypeScript + Jest**
-- 🏗️ Build real-world applications using frameworks like **NestJS** and **Spring Boot**
+- 🧪 Write **automated tests** with TypeScript + Jest
+- 🏗️ Build applications using **NestJS** and **Spring Boot**
 - 👨‍💼 Land my first job as a **Back-End Developer**
 
 ---
@@ -64,5 +64,10 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/fernandoBellegarde/fernandoBellegarde/raw/output/github-contribution-grid-snake.svg)
+---
 
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://github.com/fernandoBellegarde/fernandoBellegarde/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
