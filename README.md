@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fernando Bellegarde 👋</h1>
+ <h1 align="center">Hi, I'm Fernando Bellegarde 👋</h1>
 
 <p align="center">
   🎓 Software Engineering student at <strong>FIAP</strong><br>
@@ -56,10 +56,10 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:bellegardefernando@gmail.com" target="_blank">
+  <a href="mailto:bellegardefernando@gmail.com" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fernandobellegarde" target="_blank">
+  <a href="https://www.linkedin.com/in/fernandobellegarde" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
