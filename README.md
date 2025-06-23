@@ -14,7 +14,6 @@
 - 🐞 Creating (and fixing) bugs since **2021**
 - 🧼 Passionate about writing clean, maintainable, and scalable code
 - 📚 Currently learning: **Java**, **TypeScript**, **Databases**, and software engineering best practices
-- 💼 Actively seeking opportunities as a **Back-End Developer**
 
 ---
 
@@ -40,7 +39,6 @@
 - 🛡️ Learn best practices in **database security and performance** using MySQL and PostgreSQL
 - 🧪 Write **automated tests** with TypeScript + Jest
 - 🏗️ Build applications using **NestJS** and **Spring Boot**
-- 👨‍💼 Land my first job as a **Back-End Developer**
 
 ---
 
