@@ -4,7 +4,6 @@
   🎓 Software Engineering student at <strong>FIAP</strong><br>
   💻 Back-End Developer | Java & TypeScript enthusiast<br>
   📍 Based in São Paulo, Brazil<br>
-  🧠 Lifelong learner | Code lover
 </p>
 
 ---
@@ -29,16 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
   <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" height="40" alt="Eclipse"/>
 </p>
-
----
-
-## 🎯 Goals for 2025
-
-- 📜 Earn **Java certifications** 
-- 🗃️ Improve skills in **relational database modeling**
-- 🛡️ Learn best practices in **database security and performance** using MySQL and PostgreSQL
-- 🧪 Write **automated tests** with TypeScript + Jest
-- 🏗️ Build applications using **NestJS** and **Spring Boot**
 
 ---
 
