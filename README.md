@@ -8,14 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🐞 Creating (and fixing) bugs since **2021**
-- 🧼 Passionate about writing clean, maintainable, and scalable code
-- 📚 Currently learning: **Java**, **TypeScript**, **Databases**, and software engineering best practices
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -24,9 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" height="40" alt="Eclipse"/>
 </p>
 
 ---
@@ -43,9 +32,6 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:bellegardefernando@gmail.com" target="_blank" rel="external">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/fernandobellegarde" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
