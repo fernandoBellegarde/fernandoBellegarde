@@ -32,8 +32,11 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernandobellegarde" target="_blank" rel="external">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/fernandobellegarde" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail"/>
   </a>
 </p>
 
