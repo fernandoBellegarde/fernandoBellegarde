@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Software Engineering student at <strong>FIAP</strong><br>
-  💻 Back-End Developer | Java & TypeScript & python enthusiast<br>
+  💻 Back-End Developer | Java & TypeScript & Python enthusiast<br>
   📍 Based in São Paulo, Brazil<br>
 </p>
 
