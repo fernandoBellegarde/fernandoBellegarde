@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Fernando Bellegarde 👋</h1>
+ <h1 align="center">I'm Fernando Bellegarde 👋</h1>
 
 <p align="center">
   🎓 Software Engineering student at <strong>FIAP</strong><br>
