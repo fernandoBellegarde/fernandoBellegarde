@@ -23,8 +23,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=react" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react&hide=css" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=react&cache_seconds=1800" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react&hide=css&cache_seconds=1800" />
 </div>
 
 ---
