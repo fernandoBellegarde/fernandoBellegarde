@@ -1,4 +1,4 @@
- <h1 align="center">I'm Fernando Bellegarde 👋</h1>
+<h1 align="center">I'm Fernando Bellegarde 👋</h1>
 
 <p align="center">
   🎓 Software Engineering student at <strong>FIAP</strong><br>
@@ -19,14 +19,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 </p>
 
+## 🚀 Recent Highlights
 
-## 📊 GitHub Stats
+Here are some real-world solutions I've developed recently:
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=react&cache_seconds=1800" />
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react&hide=css&cache_seconds=1800" />
-</div>
+* **🤖 Automated Reporting Bot:** Built a Python script utilizing the **Slack API** to fetch KPIs from a **Data Lake** and send daily automated insights to the CS team.
+* **💻 Customer Portfolio UI:** Developed a **React/JS** frontend integrated with **HubSpot API** to organize CRM data with advanced filtering and sorting, improving data accessibility.
+* **📊 Data Analytics:** Performed complex data extraction and analysis from Data Lakes using advanced **SQL** queries to drive business decisions.
+* **🔎 Lead Enrichment Tool:** Created an automation script that consumes third-party **APIs** to enrich corporate domains with contact details and phone numbers for the sales team.
 
 ---
 
@@ -37,8 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="50" />
   </a>
    &nbsp;
-  <a href="mailto:bellegardefernando@exemplo.com" target="_blank" rel="external">
+  <a href="mailto:bellegardefernando@gmail.com" target="_blank" rel="external">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" width="50" />
   </a>
 </p>
-
