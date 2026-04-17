@@ -33,7 +33,7 @@ Here are some real-world solutions I've developed recently:
 <div align="center">
   <img height="160em" src="https://stats-fork-profile.vercel.app/api?username=fernandoBellegarde&show_icons=true&theme=react" />
 
-  <img height="160em" src="https://stats-fork-profile.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react&hide=css&exclude_repo=stats-fork-profile" />
+  <img height="160em" src="https://stats-fork-profile.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react&hide=css&exclude_repo=stats-fork-profile&exclude_repo=Data-Science---Fiap" />
 </div>
 
 ## 📫 Let’s Connect
